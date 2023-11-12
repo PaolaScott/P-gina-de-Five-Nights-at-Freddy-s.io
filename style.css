@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(254, 254, 255);
+}
+.lista{
+width: 200px;
+height: 200px;
+margin: 20px;
+float:inline-end;
+background-color: rgb(233, 233, 233);
+
+}
+.list-group-item {
+    background-color:rgba(155, 48, 48, 0.877); /* Color de fondo de los elementos de la lista */
+    border-color: #9eb3a3; /* Color del borde de los elementos de la lista */
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .carta {
+  float:inline-end;
+  width: 500px;
+  height: 200px;
+  margin:100px
+  top
+  }
+  .card-img-top {
+    width: 487px; /* La imagen ocupará el 100% del ancho de su contenedor (la tarjeta en este caso) */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción original de la imagen */
+  }
+  .carta1 img{
+   width:  400px;
+  }
+  .grupo-cartas img{
+    width: 450px;
+    height: 300px;
+  }
+  .carta .card-body {
+    background-color: brown;
+    width: 487px;
+    
+  }
+  .carta .card {
+    background-color: brown; /* Color café en formato hexadecimal */
+    /* Otros estilos para la caja según sea necesario */
+  }
+  .carta .card-text {
+    color: #ffffff; /* Cambia este valor según tu preferencia de color */
+  }
+  
